@@ -1,0 +1,25 @@
+# Repo jadual-harian: hanya track fail PWA yang relevan.
+# Latihan + demo + notes peribadi Tuan — bukan sebahagian repo ni.
+
+latihan1/
+latihan2/
+latihan3/
+latihan4/
+jadual-pwa/
+audio/
+
+# Tool artifacts (Letta, Playwright, VS Code workspace)
+.letta/
+.playwright-cli/
+.vscode/
+
+# Demo + artifact peribadi (HTML eksperimen & PDF)
+KEMAJUAN.md
+image_001.jpg
+luna-jarvis-vision.html
+pemakanan-keluarga.html
+pemakanan-keluarga.pdf
+roadmap.html
+roadmap.pdf
+ui-ux-*.html
+visualisasi-const-scope.html

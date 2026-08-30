@@ -1,0 +1,25 @@
+{
+  "name": "Protokol Harian — Tuan Azizi",
+  "short_name": "Protokol",
+  "description": "Jadual solat, selawat 12K, azan picker, rutin harian — data live JAKIM",
+  "start_url": "./jadual-harian.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0d",
+  "theme_color": "#0a0a0d",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
